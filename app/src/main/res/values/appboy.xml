@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
     <resources>
 
+
         <string name="com_appboy_api_key">668633d6-4fc0-41ee-be72-8d357da899d6</string>
         <string translatable="false" name="com_appboy_server_target">STAGING</string>
+        <bool translatable="false" name="com_appboy_firebase_cloud_messaging_registration_enabled">true</bool>
+        <bool name="com_appboy_push_gcm_messaging_registration_enabled">false</bool>
+        <string translatable="false" name="com_appboy_firebase_cloud_messaging_sender_id">644911094814</string>
+        <bool name="com_appboy_handle_push_deep_links_automatically">true</bool>
 
     </resources>
