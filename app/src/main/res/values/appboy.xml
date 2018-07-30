@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <string name="com_appboy_api_key">668633d6-4fc0-41ee-be72-8d357da899d6</string>
+        <string translatable="false" name="com_appboy_server_target">STAGING</string>
+
+    </resources>
